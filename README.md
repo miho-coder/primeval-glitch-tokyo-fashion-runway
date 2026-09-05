@@ -51,7 +51,7 @@ pnpm --filter @workspace/api-server build
 ```
 
 ## Disclosure
-Gemini through Replit AI Integrations powers creative planning and structured generation. The soundtrack is synthesized in code with Web Audio. Demonstration narration used Replit-supported ElevenLabs text-to-speech. The final video was edited manually in CyberLink PowerDirector with AI features disabled.
+Gemini through Replit AI Integrations powers creative planning and structured generation. The soundtrack is synthesized in code with Web Audio. Demonstration narration used text-to-speech. The final video was edited manually in CyberLink PowerDirector with AI features disabled.
 
 ## Creator
 Created by **Miho Kinomura AI**. As an AI Film Director and former fashion designer, I built this working AI-agent application in one week as a complete beginner. My focus is **AI × FASHION**.
