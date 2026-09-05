@@ -1,0 +1,14 @@
+node_modules/
+dist/
+.cache/
+*.log
+*.tsbuildinfo
+.env
+.env.*
+!.env.example
+attached_assets/
+submission/
+.agents/
+.local/
+.conversation/
+.pythonlibs/
